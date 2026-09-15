@@ -1,6 +1,6 @@
 from pathlib import Path
 
-
+# This is a simple health checker for a Python repository.
 def check_repository(repository):
     """Return whether the repository has each required item."""
     return {
